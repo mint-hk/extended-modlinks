@@ -9,7 +9,6 @@
         <Version>1.0.0.0</Version>
         <Link><![CDATA[https://files.catbox.moe/9d8wuu.zip]]></Link>
         <Dependencies>
-            <Dependency>ModCommon</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/EarlyHemisphere/HK-AnyRad-No-Ddark-Glitch]]>
