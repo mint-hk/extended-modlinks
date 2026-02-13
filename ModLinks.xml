@@ -4,15 +4,15 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
-        <Name>Any Radiance</Name>
+        <Name>Any Radiance 1.0</Name>
         <Description>Any Radiance 1.0</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="B7A4BAD6485EDCDDF24B22F0F4FA2CB8B653691AE3E562F1737C54B216357367"><![CDATA[https://github.com/Thommie0208/EasierGeoEconomy/releases/download/v0.1/EasierGeoEconomy.zip]]></Link>
+        <Link><![CDATA[https://github.com/EarlyHemisphere/HK-AnyRad-No-Ddark-Glitch/releases/download/v1.0.0/AnyRadiance.dll]]></Link>
         <Dependencies>
-            <Dependency>Satchel</Dependency>
+            <Dependency>ModCommon</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/Thommie0208/EasierGeoEconomy]]>
+            <![CDATA[https://github.com/EarlyHemisphere/HK-AnyRad-No-Ddark-Glitch]]>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>
@@ -502,7 +502,7 @@
             <![CDATA[https://github.com/Talezshadid/Omega-Radiance/raw/main/OmegaRadiance.dll]]>
         </Link>
         <Dependencies>
-            <Dependency>ModCommon</Dependency>
+            <Dependency></Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Talezshadid/Omega-Radiance]]>
@@ -612,16 +612,16 @@
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>ModCommon</Name>
+        <Name></Name>
         <Description>A hollow knight mod that provides an API of helpers and other utilities for modding hollow knight.
 Not recommended for use in new mods.</Description>
         <Version>1.0.0.0</Version>
         <Link SHA256="a4959501676033bb66136b466597f266794ef3627c92c4455c94b2a6450b69aa">
-            <![CDATA[https://github.com/HK-Modding-Preservation/ModCommon/releases/download/v1/ModCommon_1.5.dll]]>
+            <![CDATA[https://github.com/HK-Modding-Preservation//releases/download/v1/_1.5.dll]]>
         </Link>
         <Dependencies/>
         <Repository>
-            <![CDATA[https://github.com/HK-Modding-Preservation/ModCommon]]>
+            <![CDATA[https://github.com/HK-Modding-Preservation/]]>
         </Repository>
         <Tags>
             <Tag>Library</Tag>
