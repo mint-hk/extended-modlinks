@@ -1,6 +1,6 @@
-# ModLinks
+# Extended ModLinks
 
-This is the repository that holds information on every public mod that should be accessible via mod installers.
+Extended version of modlinks that includes popular mods like Any Radiance and Royal Dreamer, which aren't available in the original repository.
 
 ## How to add/update a mod to ModLinks
 
