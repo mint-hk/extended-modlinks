@@ -5,7 +5,7 @@ Extended version of modlinks that includes popular mods like Any Radiance and Ro
 ## How to add/update a mod to ModLinks
 
 ### Easy/Recommended Approach
-1. Go to https://github.com/hk-modding/modlinks/blob/main/ModLinks.xml
+1. Go to https://github.com/mint-hk/extended-modlinks/blob/main/ModLinks.xml
 1. Click the pencil at the top right corner
 1. Make the changes, scroll to the top and click "Commit Changes"
 1. Fill out the commit info and click the button that says "Propose Changes."
