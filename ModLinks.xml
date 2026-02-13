@@ -5,7 +5,7 @@
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
 	<Manifest>
         <Name>Royal Dreamer 2.0</Name>
-        <Description>Royal Dreamer 2.0. Pulled from the Hollow Knight Mods List</Description>
+        <Description>Royal Dreamer 2.0. Pulled from the Hollow Knight Mods List.</Description>
         <Version>1.0.0.0</Version>
         <Link><![CDATA[https://drive.google.com/uc?export=download&id=1NNZ4WXdWAHRlUTNe8xWGEW2slPBfSdiN]]></Link>
         <Dependencies>
@@ -23,7 +23,7 @@
     </Manifest>
 	<Manifest>
         <Name>Royal Dreamer 1.0</Name>
-        <Description>Royal Dreamer 1.0. Pulled from the Hollow Knight Mods List</Description>
+        <Description>Royal Dreamer 1.0. Pulled from the Hollow Knight Mods List.</Description>
         <Version>1.0.0.0</Version>
         <Link><![CDATA[https://drive.google.com/uc?export=download&id=1fP83lXp6MMt5QjxbnYIOTX1QF6bFc2EI]]></Link>
         <Dependencies>
