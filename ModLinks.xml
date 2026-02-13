@@ -4,6 +4,21 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
 	<Manifest>
+        <Name>Royal Dreamer 1.0</Name>
+        <Description>Royal Dreamer 1.0</Description>
+        <Version>1.0.0.0</Version>
+        <Link><![CDATA[https://files.catbox.moe/ujsue6.zip]]></Link>
+        <Repository>
+           <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.AnyRadiance2-1.5]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+		<Authors>
+            <Author>Unknown</Author>
+        </Authors>
+    </Manifest>
+	<Manifest>
         <Name>Any Radiance 2.0</Name>
         <Description>Any Radiance 2.0</Description>
         <Version>1.0.0.0</Version>
