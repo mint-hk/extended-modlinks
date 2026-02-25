@@ -2,6 +2,14 @@
 
 Extended version of modlinks that includes popular mods like Any Radiance and Royal Dreamer, which aren't available in the original repository.
 
+## Usage with Lumafly
+
+1. Open Lumafly
+2. Go to **Settings**
+3. Enable **"Use Custom Modlinks"**
+4. Paste this link: `https://raw.githubusercontent.com/mint-hk/extended-modlinks/refs/heads/main/ModLinks.xml`
+5. Press **Reload Lumafly**
+
 ## How to add/update a mod to ModLinks
 
 ### Easy/Recommended Approach
