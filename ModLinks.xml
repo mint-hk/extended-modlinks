@@ -5427,6 +5427,105 @@ Enjoy!</Description>
             <Author>Mulhima</Author>
         </Authors>
     </Manifest>
+    
+    <!-- !!!!!!!!!!!!!!!!!!!!! -->
+    <!-- CUSTOM MODLINKS BEGIN -->
+    <!-- !!!!!!!!!!!!!!!!!!!!! -->
+    
+    <Manifest>
+        <Name>Royal Dreamer 2.0</Name>
+        <Description>Royal Dreamer 2.0. Pulled from the Hollow Knight Mods List.</Description>
+        <Version>1.0.0.0</Version>
+        <Link><![CDATA[https://drive.google.com/uc?export=download&id=1NNZ4WXdWAHRlUTNe8xWGEW2slPBfSdiN]]></Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/mint-hk/extended-modlinks]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>Unknown</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Royal Dreamer 1.0</Name>
+        <Description>Royal Dreamer 1.0. Pulled from the Hollow Knight Mods List.</Description>
+        <Version>1.0.0.0</Version>
+        <Link><![CDATA[https://drive.google.com/uc?export=download&id=1fP83lXp6MMt5QjxbnYIOTX1QF6bFc2EI]]></Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/mint-hk/extended-modlinks]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>Unknown</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Any Radiance 2.0</Name>
+        <Description>Any Radiance 2.0</Description>
+        <Version>1.0.0.0</Version>
+        <Link><![CDATA[https://github.com/EarlyHemisphere/HollowKnight.AnyRadiance2-1.5/releases/download/v1.0.1/AnyRadiance.zip]]></Link>
+        <Dependencies>
+            <Dependency>ModCommon</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/EarlyHemisphere/HollowKnight.AnyRadiance2-1.5]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>EarlyHemisphere</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>AnyRadianceLoader</Name>
+        <Description>A mod that allows you to load any of the three available AnyRadiance versions without manually replacing mod files. You only need to press a single button in the menu.</Description>
+        <Version>1.0.0.0</Version>
+        <Link>
+            <![CDATA[https://github.com/NightFuryoOo/AnyRadianceLoader/releases/download/v1.0.0.0/AnyRadianceLoader.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/NightFuryoOo/AnyRadianceLoader]]>
+        </Repository>
+        <Authors>
+            <Author>NightFuryo3o</Author>
+            <Author>Jngo102</Author>
+            <Author>Early</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Any Radiance 1.0</Name>
+        <Description>Any Radiance 1.0</Description>
+        <Version>1.0.0.0</Version>
+        <Link><![CDATA[https://github.com/EarlyHemisphere/HK-AnyRad-No-Ddark-Glitch/releases/download/v1.0.0/AnyRadiance.dll]]></Link>
+        <Dependencies>
+            <Dependency>ModCommon</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/EarlyHemisphere/HK-AnyRad-No-Ddark-Glitch]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>EarlyHemisphere</Author>
+        </Authors>
+    </Manifest>
+
+    <!-- !!!!!!!!!!!!!!!!!!!!! -->
+    <!-- CUSTOM MODLINKS BEGIN -->
+    <!-- !!!!!!!!!!!!!!!!!!!!! -->
+    
     <Manifest>
         <Name>ControllerFixes</Name>
         <Description>Fixes some controller issues and adds related features.</Description>
