@@ -1833,8 +1833,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>ShuffledCharmEffects</Name>
         <Description>Equipped charms will have randomized effects</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="F9BFB81724F5BC48E2BA705D24B7BAC9D34B0B6144D16C2734F94358F80F9805"><![CDATA[https://github.com/TheMathGeek314/ShuffledCharmEffects/releases/download/v1.1.0.0/ShuffledCharmEffects.zip]]></Link>
+        <Version>1.1.0.1</Version>
+        <Link SHA256="8BEC028DA2AA6C1D49A1494CA1359554A9A80253AE3D289C0DDC327D88A2ADEC"><![CDATA[https://github.com/TheMathGeek314/ShuffledCharmEffects/releases/download/v1.1.0.1/ShuffledCharmEffects.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
