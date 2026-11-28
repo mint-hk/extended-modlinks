@@ -1603,8 +1603,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>Isma's Embrace</Name>
         <Description>A Randomizer connection for swimming beneath the surface</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="4BFCDFDA0F5388F091C591ACB503A7BA14B2936B7F5DBD250BD70D0368629072"><![CDATA[https://github.com/TheMathGeek314/IsmasEmbrace/releases/download/v1.0.1.0/IsmasEmbrace.zip]]></Link>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="C9F2F0AF3B16EA662F4466C48B510E243DE41E7218D22261748E481051F4D0E9"><![CDATA[https://github.com/TheMathGeek314/IsmasEmbrace/releases/download/v1.0.2.0/IsmasEmbrace.zip]]></Link>
         <Dependencies>
             <Dependency>HKTool</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -1619,6 +1619,7 @@ Not recommended for use in new mods.</Description>
         <Integrations>
             <Integration>CondensedSpoilerLogger</Integration>
             <Integration>ConnectionSettingsRando</Integration>
+            <Integration>FStats</Integration>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
         <Authors>
@@ -11638,9 +11639,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>UltimateChickenKnight</Name>
         <Description>Ultimate Chicken Horse in Hollow Knight, using HKMP and the Architect mod.</Description>
-        <Version>4.0.12.0</Version>
-        <Link SHA256="aea1283e48d030d541786e0dbac0d7799c80b457d66bfdf72850e738c5da0441">
-            <![CDATA[https://github.com/cometcake575/UltimateChickenKnight/releases/download/1.0.12.0/UltimateChickenKnight.zip]]>
+        <Version>4.0.12.1</Version>
+        <Link SHA256="f13c0acb7a5c05bd4fb192cfcb263e472f23605ab2af4b58d7ec883ce1cdf8f0">
+            <![CDATA[https://github.com/cometcake575/UltimateChickenKnight/releases/download/1.0.12.1/UltimateChickenKnight.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Architect</Dependency>
